@@ -1,4 +1,4 @@
-https://github.com/brrvd/ono-tebe-nado
+https://github.com/brrvd/ono-tebe-nado-ad
 
 # Яндекс Практикум, 1 спринт, проект "Оно тебе надо"
 
